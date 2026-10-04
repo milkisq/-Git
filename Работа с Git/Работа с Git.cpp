@@ -25,5 +25,5 @@ int main()
 	int c;
 	std::cin >> c;
 	// Вызываем функцию summa и выводим результат
-	std::cout << "Сумма трёх чисел = " << summa(a, b, c);
+	std::cout << "Сумма чисел = " << summa(a, b, c);
 }
